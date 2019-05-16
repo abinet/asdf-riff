@@ -1,6 +1,6 @@
 # asdf-riff
 
-[![Build Status](https://travis-ci.org/abinet/asdf-riff.svg?branch=master)](https://travis-ci.org/abinet/asdf-rancher)
+[![Build Status](https://travis-ci.org/abinet/asdf-riff.svg?branch=master)](https://travis-ci.org/abinet/asdf-riff)
 
 Riff plugin for [asdf](https://github.com/asdf-vm/asdf) version manager
 
